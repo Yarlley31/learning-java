@@ -37,5 +37,6 @@ public class questao2 {
 
         System.out.println("Valores do caixa de hoje: caixa 1 = " + caixa1 + "; caixa2 = " + caixa2);
         System.out.println("Valor total dos caixas: " + (caixa1 + caixa2));
+        System.out.println("Testando commit do Intellij");
     }
 }
