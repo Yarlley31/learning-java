@@ -1,6 +1,4 @@
-package exercicio4.exercicio2;
-
-import exercicio4.exercicio2.classes.Users;
+package exercicio4.exercicio2.classes;
 
 public class Attendant extends Users {
     private double cashValue;

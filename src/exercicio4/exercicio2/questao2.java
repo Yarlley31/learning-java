@@ -1,10 +1,11 @@
 package exercicio4.exercicio2;
 
 import exercicio4.exercicio2.classes.Adm;
+import exercicio4.exercicio2.classes.Attendant;
 import exercicio4.exercicio2.classes.Seller;
 
 public class questao2 {
-    public static void main(String[] args) {
+    static void main() {
         Adm adm = new Adm("Yarlley F.", "yarlleyfernandes9@gmail.com", 2456);
 
         adm.login();
